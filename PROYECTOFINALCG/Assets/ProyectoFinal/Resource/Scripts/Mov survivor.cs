@@ -51,10 +51,10 @@ public class MovSurvivor : MonoBehaviour
             anim.SetFloat("VelY", 0);
         }
 
-        //if (Input.GetKeyDown(KeyCode.Space))
-        //{
-        //    anim.SetTrigger("Jump");
-        //}
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            anim.SetTrigger("Jump");
+        }
 
         //if (Input.GetKeyDown(KeyCode.T))
         //{

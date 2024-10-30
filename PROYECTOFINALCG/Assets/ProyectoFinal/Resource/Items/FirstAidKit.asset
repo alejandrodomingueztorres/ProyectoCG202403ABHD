@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: FirstAidKit
   m_EditorClassIdentifier: 
   id: 1
-  itemName: First Aid Kit
+  itemName: firstaid
   value: 10
   icon: {fileID: 21300000, guid: dc3d41dfad47cc04ea422420c6bc19b2, type: 3}
+  itemType: 0

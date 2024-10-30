@@ -13,6 +13,6 @@ public class Item : ScriptableObject
 
     public enum ItemType
     {
-        FirstAid, 
+        FirstAid 
     }
-}
+} 
